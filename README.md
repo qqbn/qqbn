@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?usernameqqbn&label=PROFILE+VIEWS&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=qqbn&label=PROFILE+VIEWS&color=blueviolet)
+
 My name is Jakub, I'am Junior Frontend Developer with over 1year of commercial experience 😃
 - 💻Engineer degree in Computer Science!
 - 🔭 I’m currently working on being a Fullstack developer with Javascript

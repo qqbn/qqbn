@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=qqbn&label=PROFILE+VIEWS&color=blueviolet)
 
-My name is Jakub, I'am Junior Frontend Developer with over 1year of commercial experience 😃
+My name is Jakub, I'am Junior Frontend Developer with over 2years of commercial experience 😃
 - 💻Engineer degree in Computer Science!
 - 🔭 I’m currently working on being a Fullstack developer with Javascript
 - 🌱 I’m currently learning [Astro.js](https://astro.build/) and [Nest.js](https://nestjs.com/)

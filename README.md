@@ -1,28 +1,51 @@
-### Hi there 👋
+# Hi there!
 
-<!--
-**qqbn/qqbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer** · 4+ years commercial experience
 
-Here are some ideas to get you started:
+[![Profile views](https://komarev.com/ghpvc/?username=qqbn&label=profile+views&color=6366f1&style=flat)](https://github.com/qqbn)
+[![Email](https://img.shields.io/badge/jkfrontdev%40gmail.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:jkfrontdev@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![](https://komarev.com/ghpvc/?username=qqbn&label=PROFILE+VIEWS&color=blueviolet)
+---
 
-My name is Jakub, I'am Junior Frontend Developer with over 2years of commercial experience 😃
-- 💻Engineer degree in Computer Science!
-- 🔭 I’m currently working on being a Fullstack developer with Javascript
-- 🌱 I’m currently learning [Astro.js](https://astro.build/) and [Nest.js](https://nestjs.com/)
-- 💥 Always looking for new things to learn in webdevelopment!
-- 💚 Favourite framework: [Vue.js](https://vuejs.org/)
-- 📫 How to reach me: jkfrontdev@gmail.com
+## About me
 
-# My tech stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,vue,nuxt,astro,nodejs,express,nest,xd,php,laravel,mysql,&perline=4)](https://skillicons.dev)
+My name is Jakub and I am Frontend Developer with 4+ years of commercial experience, specializing in the Vue.js ecosystem and TypeScript, with working knowledge of React and Next.js. Experienced in building scalable, responsive web applications — from architecture decisions to performance optimization and REST API integration. Known for high attention to code quality, developer experience, and end-user performance across complex, high-traffic products.
+
+---
+
+## Tech stack
+
+**Frontend**
+
+[![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SASS](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
+[![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![Nuxt](https://skillicons.dev/icons?i=nuxt)](https://nuxt.com/)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Next](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![Astro](https://skillicons.dev/icons?i=astro)](https://astro.build/)
+
+**Backend & tools**
+
+[![Node](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![NestJS](https://skillicons.dev/icons?i=nest)](https://nestjs.com/)
+[![Prisma](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io/)
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
+
+---
+
+## GitHub stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqbn&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<sub>Open to collaborating on interesting frontend or fullstack projects. Reach me at jkfrontdev@gmail.com</sub>
